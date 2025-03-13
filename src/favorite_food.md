@@ -2,5 +2,3 @@
 
 apple
 banana
-orange
-これはテストです
