@@ -2,4 +2,4 @@
 
 apple
 banana
-test
+"ガンダムシードフリーダム"
